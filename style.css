@@ -1,0 +1,12 @@
+.row {
+	display: flex;
+}
+
+.row h1 {
+	font-size:4vmin;
+	font-weight:700;
+}
+.row h2 {
+		font-size:2vmin;
+		font-weight:300;
+}
